@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "neogeo.h": "c",
+        "types.h": "c",
+        "state.h": "c",
+        "fixmap.h": "c"
+    }
+}
