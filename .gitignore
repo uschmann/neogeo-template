@@ -1,2 +1,4 @@
 rom
 .cache
+*.o
+rom.elf
